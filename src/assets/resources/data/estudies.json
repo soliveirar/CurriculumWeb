@@ -1,0 +1,48 @@
+{
+	"estudies":[
+		{
+			"name":"Universidad de Sevilla",
+			"study":"Ingeniería de Telecomunicaciones",
+			"startingYear":2009,
+			"finishYear":2016,
+			"image":"us.png",
+			"description":"Proyecto Fin de Carrera: Servicio de información demográfica con tecnología REST basado en el PIDS de CORBAmed.",
+			"link":"https://fama.us.es/discovery/fulldisplay?docid=alma991012282359704987&context=L&vid=34CBUA_US:VU1&lang=es&search_scope=all_data_not_idus&adaptor=Local%20Search%20Engine&tab=all_data_not_idus&query=any,contains,sonia%20de%20oliveira&sortby=rank"
+		}
+	],
+	"courses":[
+		{
+			"name":"Greach 2017",
+			"company":"The Greach Network",
+			"image":"greach.jpg",
+			"date":"30/03/2017",
+			"file":"",
+			"description":"Talleres y conferencias sobre Groovy y Grails con algunos de los nombres más reconocibles de este mundo."
+		},
+		{
+			"name":"JAVA SE 8 Programmer I (1ZO-808)",
+			"company":"Oracle",
+			"image":"oracleJava.png",
+			"date":"14/12/2017",
+			"file":"JAVA-Certificate-SoniaDeOliveira.pdf",
+			"description":"Examen de la certificación JAVA SE 8 Programmer I superado con un 81%"
+		},
+		{
+			"name":"Real World Websites with HTML5 and CSS3",
+			"company":"Jonas Schmedtmann (Udemy)",
+			"image":"html.jpg",
+			"date":"12/01/2019",
+			"file":"HTML5-Certificate-SoniaDeOliveira.jpg",
+			"description":"Curso de 12 de videos bajo demanda que explican de forma sencilla cómo construir paso a paso una web, utilizando básicamente HTML5 y CSS3."
+		},
+		{
+			"name":"Desarrollo web con Angular 7",
+			"company":"Imagina Formacion",
+			"image":"angular.png",
+			"date":"12/04/2019",
+			"file":"ANGULAR-Certificate-SoniaDeOliveira.pdf",
+			"description":"Curso de 60h con las últimas actualizaciónes de Angular, en modalidad online y guiado por un profesor experto. Realización de ejercicios que completaban el aprendizaje."
+		}
+		
+	]
+}

@@ -1,0 +1,26 @@
+[			
+			{
+				"nombreProyecto":"Mantenimiento de aplicaciones en la Dirección General de la Guardia Civil",
+				"empresa":"Indra Sistemas S.A.",
+				"cliente":"Dirección General de la Guardia Civil",
+				"fechaInicio":"Julio 2018",
+				"fechaFin":"Actualidad",
+				"descripcionProyecto":"Desarrollo y mantenimiento de aplicaciones internas de la DGGC."
+			},
+			{
+				"nombreProyecto":"Anti RPAS Multisensor System",
+				"empresa":"Indra Sistemas S.A.",
+				"cliente":"Indra Sistemas S.A.",
+				"fechaInicio":"Diciembre 2017",
+				"fechaFin":"Julio 2018",
+				"descripcionProyecto":"Proyecto ARMS. Detección e inhibición de drones. El sistema anula la señal de los equipos de geolocalización del dron así como su enlace de comunicaciones con la estación de control desde la que se maneja. Desarrollado principalmente con tecnología Java."
+			},
+			{
+				"nombreProyecto":"Mantenimiento de aplicaciones en la Dirección General de la Guardia Civil",
+				"empresa":"Indra Sistemas S.A.",
+				"cliente":"Dirección General de la Guardia Civil",
+				"fechaInicio":"Julio 2016",
+				"fechaFin":"Diciembre 2017",
+				"descripcionProyecto":"Desarrollo y mantenimiento de aplicaciones internas de la DGGC."
+			}
+]
