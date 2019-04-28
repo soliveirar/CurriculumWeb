@@ -17,7 +17,7 @@
 	{
 		"name":"Angular7",
 		"type":"S",
-		"value":65
+		"value":70
 	},
 	{
 		"name":"HTML&CSS3",
@@ -32,26 +32,26 @@
 	{
 		"name":"Trabajo en equipo",
 		"type":"P",
-		"value":70
+		"value":85
 	},
 	{
 		"name":"Proactividad",
 		"type":"P",
-		"value":75
+		"value":80
 	},
 	{
 		"name":"Responsabilidad",
 		"type":"P",
-		"value":100
+		"value":95
 	},
 	{
 		"name":"Organización",
 		"type":"P",
-		"value":40
+		"value":70
 	},
 	{
 		"name":"Puntualidad",
 		"type":"P",
-		"value":50
+		"value":95
 	}
 ]
