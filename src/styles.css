@@ -1,7 +1,16 @@
 /* You can add global styles to this file, and also import other style files */
 
-.cdk-overlay-container{
+.cdk-overlay-container {
   position: absolute;
   width: 50%;
   right: 0;
+  top: 40px;
+  z-index: 1000;
 }
+
+.mat-menu-content{
+  padding: 0 !important;
+  margin:15px;
+  border: solid 1px #d4d4d4;
+}
+
